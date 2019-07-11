@@ -1,0 +1,4 @@
+  File "./Documents/flipkart_price_scraper/scraper.py", line 31
+    msg=f"Subject:{subject}\n{body}"
+                                   ^
+SyntaxError: invalid syntax
